@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-right: 5%;
+}
+nav,
+li {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2%;
+  align-items: center;
+  justify-content: space-between;
+}
